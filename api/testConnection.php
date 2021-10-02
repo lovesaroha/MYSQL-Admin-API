@@ -1,4 +1,9 @@
 <?php
+    /*  Love Saroha
+    lovesaroha1994@gmail.com (email address)
+    https://www.lovesaroha.com (website)
+    https://github.com/lovesaroha  (github)
+    */
     // Get posted data.
     $data = json_decode(file_get_contents("php://input"));
     header('Content-Type: application/json');
